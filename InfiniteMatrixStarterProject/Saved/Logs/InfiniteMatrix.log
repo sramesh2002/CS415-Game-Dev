@@ -1191,3 +1191,73 @@ LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
 [2023.09.12-03.28.43:361][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2023.09.12-03.28.43:364][206]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
 [2023.09.12-03.28.43:364][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.12-03.31.23:750][786]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Realtek Digital Output (Realtek(R) Audio), InstanceID=1
+[2023.09.12-03.31.23:762][786]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=32904
+[2023.09.12-03.31.24:097][787]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{3d922950-c742-4ef3-bc17-ec93b78d61f6}, Name=Realtek Digital Output (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=35.87
+[2023.09.12-03.31.24:097][787]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.09.12-03.31.24:098][787]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.09.12-15.48.28:721][813]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.09.12-15.48.28:775][814]LogHttp: Warning: 0000076FD1A67300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9A191FEB-426A-EBE4-B139-F195136AAEEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=4d0a8c69485c1f813902c2bf7fc09225%7C6489bc5e6ef440c0a859edbb89d0e6f0%7C50a1e8b9-b91d-4715-968e-f525ef582721&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.09.12-15.48.28:775][814]LogHttp: Warning: 0000076FD1A67300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.09.12-15.48.28:775][814]LogHttp: Warning: 0000076FD1A67300: libcurl info message cache 0 (Too old connection (44263 seconds idle), disconnect it)
+[2023.09.12-15.48.28:775][814]LogHttp: Warning: 0000076FD1A67300: libcurl info message cache 1 (Connection 0 seems to be dead)
+[2023.09.12-15.48.28:775][814]LogHttp: Warning: 0000076FD1A67300: libcurl info message cache 2 (Closing connection 0)
+[2023.09.12-15.48.28:775][814]LogHttp: Warning: 0000076FD1A67300: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.09.12-15.48.28:775][814]LogHttp: Warning: 0000076FD1A67300: libcurl info message cache 4 (Closing connection 1)
+[2023.09.12-15.48.28:775][814]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9A191FEB-426A-EBE4-B139-F195136AAEEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=4d0a8c69485c1f813902c2bf7fc09225%7C6489bc5e6ef440c0a859edbb89d0e6f0%7C50a1e8b9-b91d-4715-968e-f525ef582721&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.09.12-15.48.28:885][814]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=V227Q (NVIDIA High Definition Audio), InstanceID=1
+[2023.09.12-15.48.29:077][814]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=32904
+[2023.09.12-15.48.29:410][815]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{46cd2226-d6fc-4dc4-9fd7-30ea6b0b8525}, Name=V227Q (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=38.47
+[2023.09.12-15.48.29:410][815]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.09.12-15.48.29:411][815]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.09.12-15.48.30:743][819]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.09.12-15.48.32:743][825]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.09.12-15.48.34:743][831]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.09.12-15.48.36:744][837]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.09.12-15.48.39:379][843]LogUdpMessaging: Display: Added local interface '10.2.116.17' to multicast group '230.0.0.1:6666'
+[2023.09.12-15.58.42:334][875]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Sreedhar's Buds2 Pro Stereo), InstanceID=1
+[2023.09.12-15.58.42:420][875]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=V227Q (NVIDIA High Definition Audio), InstanceID=1
+[2023.09.12-15.58.42:521][875]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset (Sreedhar's Buds2 Pro Hands-Free AG Audio), InstanceID=1
+[2023.09.12-15.58.42:533][875]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=32904
+[2023.09.12-15.58.43:200][877]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=16000, DeviceID={0.0.0.00000000}.{a5d87594-79b4-44bd-9678-9173556f7c50}, Name=Headset (Sreedhar's Buds2 Pro Hands-Free AG Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=603.22
+[2023.09.12-15.58.43:200][877]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.09.12-15.58.43:201][877]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.09.12-15.59.42:210][ 74]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2023.09.12-15.59.42:214][ 74]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.09.12-15.59.42:217][ 74]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.09.12-15.59.42:225][ 75]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.09.12-16.00.01:093][378]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_HealthBar
+[2023.09.12-16.00.01:097][378]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.09.12-16.00.02:528][543]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InfiniteMatrix/UI/WBP_HealthBar.WBP_HealthBar
+[2023.09.12-16.00.02:529][543]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.12-16.00.02:529][543]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.12-16.00.02:536][543]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.12-16.00.02:536][543]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.12-16.00.53:965][607]LogSlate: Took 0.001197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.09.12-16.02.00:889][ 91]LogSlate: Window 'Color Picker' being destroyed
+[2023.09.12-16.03.05:199][541]BlueprintLog: New page: Compile WBP_HealthBar
+[2023.09.12-16.03.05:223][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.09.12-16.03.43:548][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.09.12-16.03.43:548][463]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.016
+[2023.09.12-16.03.43:549][463]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/InfiniteMatrix/UI/WBP_HealthBar] ([2] browsable assets)...
+[2023.09.12-16.03.43:552][463]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/InfiniteMatrix/UI/WBP_HealthBar.WBP_HealthBar]
+[2023.09.12-16.03.43:552][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/UI/WBP_HealthBar]
+[2023.09.12-16.03.43:555][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/InfiniteMatrix/UI/WBP_HealthBar_Auto1
+[2023.09.12-16.03.43:555][463]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/InfiniteMatrixStarterProject/Saved/WBP_HealthBar_Auto117C3E4D8474B9AD7929124A882D5333E.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/InfiniteMatrixStarterProject/Saved/Autosaves/Game/InfiniteMatrix/UI/WBP_HealthBar_Auto1.uasset'
+[2023.09.12-16.03.43:555][463]LogFileHelpers: Auto-saving content packages took 0.007
+[2023.09.12-16.04.24:874][802]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2023.09.12-16.04.24:874][802]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.12-16.04.24:874][802]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.12-16.04.32:531][695]LogDerivedDataCache: C:/Users/Sreedhar Ramesh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.019 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 369 files in 688 folders with total size 1 MiB.
+[2023.09.12-16.18.02:056][499]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.09.12-16.18.02:056][499]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.09.12-16.30.54:121][814]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.09.12-17.04.32:560][866]LogDerivedDataCache: C:/Users/Sreedhar Ramesh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.048 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 369 files in 688 folders with total size 1 MiB.
+[2023.09.12-17.06.32:879][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.09.12-17.06.34:210][907]LogSlate: Window 'Save Content' being destroyed
+[2023.09.12-17.06.34:217][907]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.12-17.06.34:268][907]LogSavePackage: Moving output files for package: /Game/InfiniteMatrix/UI/WBP_HealthBar
+[2023.09.12-17.06.34:268][907]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/InfiniteMatrixStarterProject/Saved/WBP_HealthBar8B0033694174C5632D32ACBD7BF15E61.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/InfiniteMatrixStarterProject/Content/InfiniteMatrix/UI/WBP_HealthBar.uasset'
+[2023.09.12-17.06.34:280][907]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 456 ms)
+[2023.09.12-17.06.34:286][907]AssetCheck: New page: Asset Save: WBP_HealthBar
+[2023.09.12-17.06.34:287][907]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/InfiniteMatrix/UI/WBP_HealthBar.WBP_HealthBar
