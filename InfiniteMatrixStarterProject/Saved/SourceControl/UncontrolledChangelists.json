@@ -10,7 +10,18 @@
 				"C:/Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/InfiniteMatrixStarterProject/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
 				"C:/Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/InfiniteMatrixStarterProject/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
 				"C:/Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/InfiniteMatrixStarterProject/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
-				"C:/Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/InfiniteMatrixStarterProject/Content/InfiniteMatrix/UI/WBP_HealthBar.uasset"
+				"C:/Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/InfiniteMatrixStarterProject/Content/InfiniteMatrix/UI/WBP_HealthBar.uasset",
+				"C:/Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/InfiniteMatrixStarterProject/Content/InfiniteMatrix/Blueprints/BP_Pickup_Health.uasset",
+				"C:/Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/InfiniteMatrixStarterProject/Content/InfiniteMatrix/Materials/Medicalbox.uasset",
+				"C:/Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/InfiniteMatrixStarterProject/Content/InfiniteMatrix/Materials/Body.uasset",
+				"C:/Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/InfiniteMatrixStarterProject/Content/InfiniteMatrix/UI/Health_Pack.uasset",
+				"C:/Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/InfiniteMatrixStarterProject/Content/InfiniteMatrix/UI/Health_Pack_Albedo.uasset",
+				"C:/Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/InfiniteMatrixStarterProject/Content/InfiniteMatrix/UI/Health_Pack_Emission.uasset",
+				"C:/Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/InfiniteMatrixStarterProject/Content/InfiniteMatrix/UI/Health_Pack_Metallic.uasset",
+				"C:/Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/InfiniteMatrixStarterProject/Content/InfiniteMatrix/UI/Health_Pack_Normal.uasset",
+				"C:/Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/InfiniteMatrixStarterProject/Content/InfiniteMatrix/UI/Health_Pack_Occlusion.uasset",
+				"C:/Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/InfiniteMatrixStarterProject/Content/InfiniteMatrix/UI/Health_Pack_Roughness.uasset",
+				"C:/Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/InfiniteMatrixStarterProject/Content/InfiniteMatrix/UI/lambert1.uasset"
 			]
 		}
 	]
