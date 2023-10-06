@@ -1874,3 +1874,613 @@ Make sure 'BP_CannonBall_C' has been compiled for  Get LaunchVelo
 [2023.10.06-22.32.06:384][689]LogFileHelpers: InternalPromptForCheckoutAndSave took 205 ms (total: 749 ms)
 [2023.10.06-22.32.06:391][689]AssetCheck: New page: Asset Save: PlatformerWorld
 [2023.10.06-22.32.06:391][689]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld
+[2023.10.06-22.36.03:380][268]LogEditorClassViewer: Warning: Class /Game/LearningKit_Robots/ReadMe.ReadMe_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.06-22.36.05:460][268]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.10.06-22.36.05:466][268]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.10.06-22.36.05:473][268]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.10.06-22.36.05:490][269]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.10.06-22.36.08:843][662]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2023.10.06-22.36.08:848][662]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.10.06-22.36.10:359][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.10.06-22.36.11:369][838]LogSlate: Window 'Delete Assets' being destroyed
+[2023.10.06-22.36.11:391][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.10.06-22.36.11:408][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.10.06-22.36.11:423][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.10.06-22.36.14:880][ 41]LogEditorClassViewer: Warning: Class /Game/LearningKit_Robots/ReadMe.ReadMe_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.06-22.36.27:884][ 41]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.10.06-22.36.27:912][ 41]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.10.06-22.36.27:916][ 41]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.10.06-22.36.27:925][ 42]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.10.06-22.36.37:129][128]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Pursuer
+[2023.10.06-22.36.37:134][128]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.10.06-22.36.38:025][232]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer
+[2023.10.06-22.36.38:025][232]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-22.36.38:025][232]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.10.06-22.36.38:213][232]LogViewport: Scene viewport resized to 1171x678, mode Windowed.
+[2023.10.06-22.36.41:270][569]LogSlate: Took 0.000087 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.10.06-22.38.57:716][762]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2023.10.06-22.38.57:717][762]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Content/Developers/SreedharRamesh/Collections/' because it could not be accessed. Aborting watch request...
+[2023.10.06-22.38.58:050][763]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2023.10.06-22.39.09:207][299]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim
+[2023.10.06-22.39.09:212][299]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim
+[2023.10.06-22.39.09:217][299]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim
+[2023.10.06-22.39.09:229][299]LogAnimationCompression: Display: Storing compressed animation data for /Game/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim, at AnimationSequence/219b1585d847ffc13b56e87cee7df39a0ec31868
+[2023.10.06-22.39.09:230][299]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim
+[2023.10.06-22.39.09:230][299]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim
+[2023.10.06-22.39.09:233][299]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim
+[2023.10.06-22.39.09:239][299]LogAnimationCompression: Display: Storing compressed animation data for /Game/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim, at AnimationSequence/6f902faeba0bc9182b95305a48bf5b50ecf0831b
+[2023.10.06-22.39.09:240][299]LogAnimationCompression: Display: Storing compressed animation data for /Game/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim, at AnimationSequence/c3447510b4f69a7818c5b257d6789ab7573f7831
+[2023.10.06-22.39.09:240][299]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim
+[2023.10.06-22.39.09:241][299]LogAnimationCompression: Display: Storing compressed animation data for /Game/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim, at AnimationSequence/cc8576ab2b69b5c2774981b3a3d6a25c31aa21fd
+[2023.10.06-22.39.09:245][299]LogAnimationCompression: Display: Storing compressed animation data for /Game/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim, at AnimationSequence/2932ee3af2473cbab9c6190cd33adf9b579dfcc9
+[2023.10.06-22.39.09:246][299]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim
+[2023.10.06-22.39.09:250][299]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim
+[2023.10.06-22.39.09:254][299]LogAnimationCompression: Display: Storing compressed animation data for /Game/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim, at AnimationSequence/d5ceaca062493e42232f60993d90d28c8dd6df7b
+[2023.10.06-22.39.09:256][299]LogAnimationCompression: Display: Storing compressed animation data for /Game/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim, at AnimationSequence/d7fe426629cb38dab20f167376645fcaa6d62267
+[2023.10.06-22.39.09:257][299]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim
+[2023.10.06-22.39.09:259][299]LogAnimationCompression: Display: Storing compressed animation data for /Game/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim, at AnimationSequence/8b354221cb640593b54aad7a031e79043988136a
+[2023.10.06-22.39.09:264][299]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim
+[2023.10.06-22.39.09:265][299]LogAnimationCompression: Display: Storing compressed animation data for /Game/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim, at AnimationSequence/a6630cbd5b02b4f5e5cc94078642ae45130b8bc7
+[2023.10.06-22.39.09:270][299]LogAnimationCompression: Display: Storing compressed animation data for /Game/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim, at AnimationSequence/5a930e4d9fde5ccf15c434eb6d6f39453c787c48
+[2023.10.06-22.39.09:271][299]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim
+[2023.10.06-22.39.09:277][299]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim
+[2023.10.06-22.39.09:281][299]LogAnimationCompression: Display: Storing compressed animation data for /Game/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim, at AnimationSequence/3cf0a7c524203ad9f49c9ec71753619d1e5e1eb7
+[2023.10.06-22.39.09:284][299]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim
+[2023.10.06-22.39.09:291][299]LogAnimationCompression: Display: Storing compressed animation data for /Game/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim, at AnimationSequence/50428b6ae280ca9e233b3fe5c9f23edcb5fb000c
+[2023.10.06-22.39.09:302][299]LogAnimationCompression: Display: Storing compressed animation data for /Game/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim, at AnimationSequence/8f8923f7cbb48e2f30ce05b1150a9c309565f04c
+[2023.10.06-22.39.09:308][299]LogAnimationCompression: Display: Storing compressed animation data for /Game/ControlRig/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim, at AnimationSequence/458312d8ca3d744c60878b15ba03242b2d2a010c
+[2023.10.06-22.39.09:353][299]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Manny) ...
+[2023.10.06-22.39.09:383][299]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-22.39.10:297][363]LogShaderCompilers: Display: ================================================
+[2023.10.06-22.39.10:297][363]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.06-22.39.10:297][363]LogShaderCompilers: Display: Total job queries 2,744, among them cache hits 44 (1.60%)
+[2023.10.06-22.39.10:297][363]LogShaderCompilers: Display: Tracking 2,696 distinct input hashes that result in 1,939 distinct outputs (71.92%)
+[2023.10.06-22.39.10:297][363]LogShaderCompilers: Display: RAM used: 8.91 MiB of 1.60 GiB budget. Usage: 0.54%
+[2023.10.06-22.39.10:297][363]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.06-22.39.10:297][363]LogShaderCompilers: Display: Shaders Compiled: 2,695
+[2023.10.06-22.39.10:297][363]LogShaderCompilers: Display: Jobs assigned 2,699, completed 2,695 (99.85%)
+[2023.10.06-22.39.10:297][363]LogShaderCompilers: Display: Average time worker was idle: 29.79 s
+[2023.10.06-22.39.10:297][363]LogShaderCompilers: Display: Time job spent in pending queue: average 116.14 s, longest 278.90 s
+[2023.10.06-22.39.10:297][363]LogShaderCompilers: Display: Job execution time: average 12.38 s, max 41.07 s
+[2023.10.06-22.39.10:297][363]LogShaderCompilers: Display: Job life time (pending + execution): average 128.69 s, max 292.92
+[2023.10.06-22.39.10:297][363]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 305.93 s
+[2023.10.06-22.39.10:297][363]LogShaderCompilers: Display: Jobs were issued in 423 batches (only local compilation was used), average 6.38 jobs/batch
+[2023.10.06-22.39.10:297][363]LogShaderCompilers: Display: Average processing rate: 8.81 jobs/sec
+[2023.10.06-22.39.10:297][363]LogShaderCompilers: Display: Total thread time: 2,587.773 s
+[2023.10.06-22.39.10:297][363]LogShaderCompilers: Display: Total thread preprocess time: 58.687 s
+[2023.10.06-22.39.10:297][363]LogShaderCompilers: Display: Percentage time preprocessing: 2.27%
+[2023.10.06-22.39.10:297][363]LogShaderCompilers: Display: Effective parallelization: 8.46 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.10.06-22.39.10:297][363]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.10.06-22.39.10:297][363]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 13.69 sec, max 13.69 sec, min 13.69 sec)
+[2023.10.06-22.39.10:297][363]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 9.84 sec, max 30.52 sec, min 1.94 sec)
+[2023.10.06-22.39.10:297][363]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 6.45 sec, max 16.32 sec, min 0.41 sec)
+[2023.10.06-22.39.10:297][363]LogShaderCompilers: Display:                                   FScreenSpaceShortRangeAOCS (compiled   12 times, average 5.40 sec, max 24.29 sec, min 0.53 sec)
+[2023.10.06-22.39.10:297][363]LogShaderCompilers: Display:                                    FShadingFurnaceTestPassPS (compiled    1 times, average 3.90 sec, max 3.90 sec, min 3.90 sec)
+[2023.10.06-22.39.10:297][363]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.10.06-22.39.10:297][363]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 12.54% of total time (compiled  128 times, average 2.54 sec, max 3.66 sec, min 1.91 sec)
+[2023.10.06-22.39.10:297][363]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 10.53% of total time (compiled  128 times, average 2.13 sec, max 6.56 sec, min 0.32 sec)
+[2023.10.06-22.39.10:297][363]LogShaderCompilers: Display:                                             FDeferredLightPS - 8.54% of total time (compiled  102 times, average 2.17 sec, max 5.06 sec, min 0.42 sec)
+[2023.10.06-22.39.10:297][363]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 6.89% of total time (compiled  128 times, average 1.39 sec, max 2.46 sec, min 0.76 sec)
+[2023.10.06-22.39.10:297][363]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 5.62% of total time (compiled   96 times, average 1.51 sec, max 3.28 sec, min 0.34 sec)
+[2023.10.06-22.39.10:297][363]LogShaderCompilers: Display: ================================================
+[2023.10.06-22.39.10:642][386]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-22.39.22:567][612]BlueprintLog: New page: Compile BP_Pursuer
+[2023.10.06-22.39.22:626][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.10.06-22.39.48:209][337]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2023.10.06-22.39.48:239][337]LogEditorClassViewer: Warning: Class /Game/LearningKit_Robots/ReadMe.ReadMe_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.06-22.39.51:824][685]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/ControlRig/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.MM_Fall_Loop
+[2023.10.06-22.39.51:828][685]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/ControlRig/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2023.10.06-22.39.51:833][685]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/ControlRig/Characters/Mannequins/Animations/Manny/MM_Jump.MM_Jump
+[2023.10.06-22.39.51:839][685]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/ControlRig/Characters/Mannequins/Animations/Manny/MM_Land.MM_Land
+[2023.10.06-22.39.51:843][685]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/ControlRig/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.MM_Run_Fwd
+[2023.10.06-22.39.51:847][685]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/ControlRig/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd
+[2023.10.06-22.39.51:853][685]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/ControlRig/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.MM_Walk_InPlace
+[2023.10.06-22.40.01:250][638]BlueprintLog: New page: Compile BP_Pursuer
+[2023.10.06-22.40.01:311][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.10.06-22.40.33:721][286]LogViewport: Scene viewport resized to 1168x696, mode Windowed.
+[2023.10.06-22.40.33:788][288]LogViewport: Scene viewport resized to 659x344, mode Windowed.
+[2023.10.06-22.40.33:809][289]LogViewport: Scene viewport resized to 479x220, mode Windowed.
+[2023.10.06-22.40.34:137][325]LogViewport: Scene viewport resized to 1171x678, mode Windowed.
+[2023.10.06-22.40.34:269][333]LogViewport: Scene viewport resized to 1168x696, mode Windowed.
+[2023.10.06-22.40.34:371][335]LogViewport: Scene viewport resized to 629x324, mode Windowed.
+[2023.10.06-22.40.34:394][336]LogViewport: Scene viewport resized to 479x220, mode Windowed.
+[2023.10.06-22.40.34:441][341]LogViewport: Scene viewport resized to 1171x678, mode Windowed.
+[2023.10.06-22.40.35:318][446]LogSlate: Window 'BP_Pursuer' being destroyed
+[2023.10.06-22.40.35:325][446]LogViewport: Scene viewport resized to 1171x721, mode Windowed.
+[2023.10.06-22.40.35:337][447]LogViewport: Scene viewport resized to 1171x717, mode Windowed.
+[2023.10.06-22.40.35:348][448]LogViewport: Scene viewport resized to 1171x714, mode Windowed.
+[2023.10.06-22.40.35:358][449]LogViewport: Scene viewport resized to 1171x710, mode Windowed.
+[2023.10.06-22.40.35:369][450]LogViewport: Scene viewport resized to 1171x707, mode Windowed.
+[2023.10.06-22.40.35:380][451]LogViewport: Scene viewport resized to 1171x703, mode Windowed.
+[2023.10.06-22.40.35:390][452]LogViewport: Scene viewport resized to 1171x701, mode Windowed.
+[2023.10.06-22.40.35:400][453]LogViewport: Scene viewport resized to 1171x698, mode Windowed.
+[2023.10.06-22.40.35:410][454]LogViewport: Scene viewport resized to 1171x695, mode Windowed.
+[2023.10.06-22.40.35:421][455]LogViewport: Scene viewport resized to 1171x692, mode Windowed.
+[2023.10.06-22.40.35:432][456]LogViewport: Scene viewport resized to 1171x688, mode Windowed.
+[2023.10.06-22.40.35:443][457]LogViewport: Scene viewport resized to 1171x684, mode Windowed.
+[2023.10.06-22.40.35:454][458]LogViewport: Scene viewport resized to 1171x681, mode Windowed.
+[2023.10.06-22.40.35:465][459]LogViewport: Scene viewport resized to 1171x678, mode Windowed.
+[2023.10.06-22.42.07:966][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.10.06-22.42.07:969][200]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LearningKit_Games/Maps/PlatformerWorld' took 0.022
+[2023.10.06-22.42.07:969][200]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer] ([2] browsable assets)...
+[2023.10.06-22.42.07:995][200]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer]
+[2023.10.06-22.42.07:995][200]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-22.42.08:026][200]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer_C]
+[2023.10.06-22.42.08:026][200]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer]
+[2023.10.06-22.42.08:029][200]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer_Auto1
+[2023.10.06-22.42.08:029][200]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Saved/BP_Pursuer_Auto1A107E93849E65E3AFF0F2FA5F2A25F7A.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Saved/Autosaves/Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer_Auto1.uasset'
+[2023.10.06-22.42.08:032][200]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ControlRig/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK] ([2] browsable assets)...
+[2023.10.06-22.42.08:032][200]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-22.42.08:059][200]OBJ SavePackage:     Rendered thumbnail for [ControlRigBlueprint /Game/ControlRig/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK]
+[2023.10.06-22.42.08:059][200]OBJ SavePackage: Finished generating thumbnails for package [/Game/ControlRig/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK]
+[2023.10.06-22.42.08:095][200]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ControlRig/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK_Auto1
+[2023.10.06-22.42.08:095][200]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Saved/CR_Mannequin_BasicFootIK_Auto185E06F744AA3AF8C63C51E9200BD745D.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Saved/Autosaves/Game/ControlRig/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK_Auto1.uasset'
+[2023.10.06-22.42.08:095][200]LogFileHelpers: Auto-saving content packages took 0.126
+[2023.10.06-22.43.50:020][943]BlueprintLog: New page: Compile BP_Pursuer
+[2023.10.06-22.43.50:084][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.10.06-22.44.06:112][792]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2023.10.06-22.44.06:112][792]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2023.10.06-22.44.06:113][792]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.NavMeshBoundsVolume_0
+[2023.10.06-22.44.06:114][792]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.NavMeshBoundsVolume_0
+[2023.10.06-22.44.06:808][868]LogShaderCompilers: Display: ================================================
+[2023.10.06-22.44.06:808][868]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.06-22.44.06:808][868]LogShaderCompilers: Display: Total job queries 2,762, among them cache hits 50 (1.81%)
+[2023.10.06-22.44.06:808][868]LogShaderCompilers: Display: Tracking 2,712 distinct input hashes that result in 1,947 distinct outputs (71.79%)
+[2023.10.06-22.44.06:808][868]LogShaderCompilers: Display: RAM used: 8.95 MiB of 1.60 GiB budget. Usage: 0.55%
+[2023.10.06-22.44.06:808][868]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.06-22.44.06:808][868]LogShaderCompilers: Display: Shaders Compiled: 2,711
+[2023.10.06-22.44.06:808][868]LogShaderCompilers: Display: Jobs assigned 2,711, completed 2,711 (100.00%)
+[2023.10.06-22.44.06:808][868]LogShaderCompilers: Display: Average time worker was idle: 30.34 s
+[2023.10.06-22.44.06:808][868]LogShaderCompilers: Display: Time job spent in pending queue: average 115.62 s, longest 278.90 s
+[2023.10.06-22.44.06:808][868]LogShaderCompilers: Display: Job execution time: average 12.31 s, max 41.07 s
+[2023.10.06-22.44.06:808][868]LogShaderCompilers: Display: Job life time (pending + execution): average 127.94 s, max 292.92
+[2023.10.06-22.44.06:808][868]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 308.95 s
+[2023.10.06-22.44.06:808][868]LogShaderCompilers: Display: Jobs were issued in 435 batches (only local compilation was used), average 6.23 jobs/batch
+[2023.10.06-22.44.06:808][868]LogShaderCompilers: Display: Average processing rate: 8.77 jobs/sec
+[2023.10.06-22.44.06:808][868]LogShaderCompilers: Display: Total thread time: 2,594.015 s
+[2023.10.06-22.44.06:808][868]LogShaderCompilers: Display: Total thread preprocess time: 59.013 s
+[2023.10.06-22.44.06:808][868]LogShaderCompilers: Display: Percentage time preprocessing: 2.27%
+[2023.10.06-22.44.06:808][868]LogShaderCompilers: Display: Effective parallelization: 8.40 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.10.06-22.44.06:808][868]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.10.06-22.44.06:808][868]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 13.69 sec, max 13.69 sec, min 13.69 sec)
+[2023.10.06-22.44.06:808][868]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 9.84 sec, max 30.52 sec, min 1.94 sec)
+[2023.10.06-22.44.06:808][868]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 6.45 sec, max 16.32 sec, min 0.41 sec)
+[2023.10.06-22.44.06:808][868]LogShaderCompilers: Display:                                   FScreenSpaceShortRangeAOCS (compiled   12 times, average 5.40 sec, max 24.29 sec, min 0.53 sec)
+[2023.10.06-22.44.06:808][868]LogShaderCompilers: Display:                                    FShadingFurnaceTestPassPS (compiled    1 times, average 3.90 sec, max 3.90 sec, min 3.90 sec)
+[2023.10.06-22.44.06:808][868]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.10.06-22.44.06:808][868]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 12.51% of total time (compiled  128 times, average 2.54 sec, max 3.66 sec, min 1.91 sec)
+[2023.10.06-22.44.06:808][868]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 10.51% of total time (compiled  128 times, average 2.13 sec, max 6.56 sec, min 0.32 sec)
+[2023.10.06-22.44.06:808][868]LogShaderCompilers: Display:                                             FDeferredLightPS - 8.52% of total time (compiled  102 times, average 2.17 sec, max 5.06 sec, min 0.42 sec)
+[2023.10.06-22.44.06:808][868]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 6.87% of total time (compiled  128 times, average 1.39 sec, max 2.46 sec, min 0.76 sec)
+[2023.10.06-22.44.06:808][868]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 5.61% of total time (compiled   96 times, average 1.51 sec, max 3.28 sec, min 0.34 sec)
+[2023.10.06-22.44.06:808][868]LogShaderCompilers: Display: ================================================
+[2023.10.06-22.45.20:345][514]Cmd: EDIT COPY
+[2023.10.06-22.45.21:545][658]Cmd: EDIT PASTE
+[2023.10.06-22.45.40:112][774]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer_C
+[2023.10.06-22.45.40:112][774]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer_C
+[2023.10.06-22.45.40:122][774]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer as actor: BP_Pursuer_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_0
+[2023.10.06-22.45.40:124][774]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer as actor: BP_Pursuer_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_0
+[2023.10.06-22.45.41:630][940]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer_C
+[2023.10.06-22.45.41:630][940]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer_C
+[2023.10.06-22.45.41:638][940]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer as actor: BP_Pursuer_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_1
+[2023.10.06-22.45.41:641][940]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer as actor: BP_Pursuer_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_1
+[2023.10.06-22.45.53:963][380]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer_C
+[2023.10.06-22.45.53:963][380]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer_C
+[2023.10.06-22.45.53:966][380]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer as actor: BP_Pursuer_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_2
+[2023.10.06-22.45.53:969][380]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer as actor: BP_Pursuer_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_2
+[2023.10.06-22.45.54:540][438]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer_C
+[2023.10.06-22.45.54:540][438]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer_C
+[2023.10.06-22.45.54:547][438]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer as actor: BP_Pursuer_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_3
+[2023.10.06-22.45.54:550][438]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer as actor: BP_Pursuer_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_3
+[2023.10.06-22.46.03:588][470]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.06-22.46.03:597][470]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.06-22.46.03:597][470]PIE: New page: PIE session: PlatformerWorld (Oct 6, 2023, 12:46:03 PM)
+[2023.10.06-22.46.03:641][470]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld
+[2023.10.06-22.46.03:724][470]LogPlayLevel: PIE: StaticDuplicateObject took: (0.082499s)
+[2023.10.06-22.46.03:724][470]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld to /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld.PlatformerWorld (0.082535s)
+[2023.10.06-22.46.03:724][470]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-22.46.03:724][470]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.10.06-22.46.03:724][470]LogAIModule: Creating AISystem for world PlatformerWorld
+[2023.10.06-22.46.03:725][470]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2023.10.06-22.46.03:747][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.10.06-22.46.03:750][470]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.10.06-22.46.03:750][470]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.06-22.46.03:750][470]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.06-22.46.03:750][470]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.06-22.46.03:750][470]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.06-22.46.03:750][470]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.06-22.46.03:750][470]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.06-22.46.03:750][470]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.06-22.46.03:750][470]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.06-22.46.03:751][470]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.06-22.46.03:751][470]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.06-22.46.03:751][470]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.06-22.46.03:752][470]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.06-22.46.03:762][470]LogAudioMixer: Display: Using Audio Hardware Device Headset (Sreedhar's Buds2 Pro Hands-Free AG Audio)
+[2023.10.06-22.46.03:762][470]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.06-22.46.03:762][470]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.06-22.46.03:762][470]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.06-22.46.03:762][470]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.10.06-22.46.03:762][470]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.10.06-22.46.03:763][470]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.10.06-22.46.03:763][470]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.10.06-22.46.03:763][470]LogInit: FAudioDevice initialized with ID 7.
+[2023.10.06-22.46.03:763][470]LogAudio: Display: Audio Device (ID: 7) registered with world 'PlatformerWorld'.
+[2023.10.06-22.46.03:763][470]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2023.10.06-22.46.03:765][470]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2023.10.06-22.46.03:805][470]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld.PlatformerWorld up for play (max tick rate 0) at 2023.10.06-17.46.03
+[2023.10.06-22.46.03:806][470]LogWorld: Bringing up level for play took: 0.040022
+[2023.10.06-22.46.03:807][470]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2023.10.06-22.46.03:813][470]PIE: Server logged in
+[2023.10.06-22.46.03:814][470]PIE: Play in editor total start time 0.222 seconds.
+[2023.10.06-22.46.36:701][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.06-22.46.36:702][395]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld
+[2023.10.06-22.46.36:702][395]LogWorld: UWorld::CleanupWorld for PlatformerWorld, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.46.36:708][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.46.36:712][395]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.06-22.46.36:716][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.46.36:735][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.06-22.46.36:740][395]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2023.10.06-22.46.36:740][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.10.06-22.46.36:742][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.10.06-22.46.36:755][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.10.06-22.46.36:800][396]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.10.06-22.46.58:866][827]LogEditorClassViewer: Warning: Class /Game/LearningKit_Robots/ReadMe.ReadMe_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.06-22.47.03:399][342]BlueprintLog: New page: Compile BP_Pursuer
+[2023.10.06-22.47.03:511][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.10.06-22.47.05:662][547]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.06-22.47.05:666][547]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.06-22.47.05:666][547]PIE: New page: PIE session: PlatformerWorld (Oct 6, 2023, 12:47:05 PM)
+[2023.10.06-22.47.05:696][547]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld
+[2023.10.06-22.47.05:776][547]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080046s)
+[2023.10.06-22.47.05:776][547]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld to /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld.PlatformerWorld (0.080078s)
+[2023.10.06-22.47.05:776][547]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-22.47.05:776][547]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.10.06-22.47.05:777][547]LogAIModule: Creating AISystem for world PlatformerWorld
+[2023.10.06-22.47.05:777][547]LogPlayLevel: PIE: World Init took: (0.000668s)
+[2023.10.06-22.47.05:799][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.10.06-22.47.05:801][547]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.10.06-22.47.05:801][547]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.06-22.47.05:801][547]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.06-22.47.05:801][547]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.06-22.47.05:801][547]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.06-22.47.05:801][547]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.06-22.47.05:801][547]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.06-22.47.05:801][547]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.06-22.47.05:801][547]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.06-22.47.05:801][547]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.06-22.47.05:801][547]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.06-22.47.05:801][547]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.06-22.47.05:803][547]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.06-22.47.05:813][547]LogAudioMixer: Display: Using Audio Hardware Device Headset (Sreedhar's Buds2 Pro Hands-Free AG Audio)
+[2023.10.06-22.47.05:813][547]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.06-22.47.05:813][547]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.06-22.47.05:813][547]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.06-22.47.05:813][547]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.10.06-22.47.05:813][547]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.10.06-22.47.05:814][547]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.10.06-22.47.05:814][547]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.10.06-22.47.05:814][547]LogInit: FAudioDevice initialized with ID 8.
+[2023.10.06-22.47.05:814][547]LogAudio: Display: Audio Device (ID: 8) registered with world 'PlatformerWorld'.
+[2023.10.06-22.47.05:814][547]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2023.10.06-22.47.05:816][547]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2023.10.06-22.47.05:853][547]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld.PlatformerWorld up for play (max tick rate 0) at 2023.10.06-17.47.05
+[2023.10.06-22.47.05:854][547]LogWorld: Bringing up level for play took: 0.037554
+[2023.10.06-22.47.05:855][547]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2023.10.06-22.47.05:861][547]PIE: Server logged in
+[2023.10.06-22.47.05:861][547]PIE: Play in editor total start time 0.196 seconds.
+[2023.10.06-22.47.21:851][450]LogCharacterMovement: BP_LearningKit_PlayerCharacter_C_0 is stuck and failed to move! Velocity: X=-257.51 Y=-292.87 Z=0.00 Location: X=1827.21 Y=6072.38 Z=45.57 Normal: X=-0.96 Y=-0.28 Z=-0.03 PenetrationDepth:19.818 Actor:BP_Bullet_C_13 Component:Sphere BoneName:None (0 other events since notify)
+[2023.10.06-22.47.22:929][579]LogCharacterMovement: BP_LearningKit_PlayerCharacter_C_0 is stuck and failed to move! Velocity: X=-713.39 Y=236.34 Z=0.00 Location: X=1766.27 Y=5965.40 Z=47.84 Normal: X=0.57 Y=0.82 Z=-0.00 PenetrationDepth:3.499 Actor:BP_Bullet_C_15 Component:Sphere BoneName:None (0 other events since notify)
+[2023.10.06-22.48.02:480][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.06-22.48.02:480][308]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld
+[2023.10.06-22.48.02:481][308]LogWorld: UWorld::CleanupWorld for PlatformerWorld, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.48.02:487][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.48.02:496][308]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.06-22.48.02:501][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.48.02:522][308]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.06-22.48.02:522][308]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2023.10.06-22.48.02:522][308]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.10.06-22.48.02:523][308]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.10.06-22.48.02:526][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.06-22.48.02:542][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.10.06-22.48.02:586][309]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.10.06-22.48.32:821][862]LogEditorClassViewer: Warning: Class /Game/LearningKit_Robots/ReadMe.ReadMe_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.06-22.48.36:903][328]BlueprintLog: New page: Compile BP_Pursuer
+[2023.10.06-22.48.37:028][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.10.06-22.48.42:253][898]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.06-22.48.42:256][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.06-22.48.42:256][898]PIE: New page: PIE session: PlatformerWorld (Oct 6, 2023, 12:48:42 PM)
+[2023.10.06-22.48.42:296][898]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld
+[2023.10.06-22.48.42:379][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.083073s)
+[2023.10.06-22.48.42:379][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld to /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld.PlatformerWorld (0.083116s)
+[2023.10.06-22.48.42:379][898]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-22.48.42:379][898]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.10.06-22.48.42:380][898]LogAIModule: Creating AISystem for world PlatformerWorld
+[2023.10.06-22.48.42:380][898]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2023.10.06-22.48.42:400][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.10.06-22.48.42:401][898]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.10.06-22.48.42:401][898]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.06-22.48.42:401][898]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.06-22.48.42:401][898]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.06-22.48.42:401][898]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.06-22.48.42:401][898]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.06-22.48.42:401][898]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.06-22.48.42:401][898]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.06-22.48.42:401][898]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.06-22.48.42:402][898]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.06-22.48.42:402][898]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.06-22.48.42:402][898]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.06-22.48.42:403][898]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.06-22.48.42:413][898]LogAudioMixer: Display: Using Audio Hardware Device Headset (Sreedhar's Buds2 Pro Hands-Free AG Audio)
+[2023.10.06-22.48.42:413][898]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.06-22.48.42:413][898]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.06-22.48.42:413][898]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.06-22.48.42:414][898]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.10.06-22.48.42:414][898]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.10.06-22.48.42:415][898]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.10.06-22.48.42:415][898]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.10.06-22.48.42:415][898]LogInit: FAudioDevice initialized with ID 9.
+[2023.10.06-22.48.42:415][898]LogAudio: Display: Audio Device (ID: 9) registered with world 'PlatformerWorld'.
+[2023.10.06-22.48.42:415][898]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2023.10.06-22.48.42:417][898]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2023.10.06-22.48.42:455][898]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld.PlatformerWorld up for play (max tick rate 0) at 2023.10.06-17.48.42
+[2023.10.06-22.48.42:456][898]LogWorld: Bringing up level for play took: 0.038844
+[2023.10.06-22.48.42:458][898]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2023.10.06-22.48.42:463][898]PIE: Server logged in
+[2023.10.06-22.48.42:464][898]PIE: Play in editor total start time 0.208 seconds.
+[2023.10.06-22.49.01:095][121]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.10.06-22.49.01:095][121]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.10.06-22.49.02:252][260]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.10.06-22.49.02:252][260]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.10.06-22.49.02:253][260]LogNet: Browse: /Game/LearningKit_Games/Maps/PlatformerWorld
+[2023.10.06-22.49.02:253][260]LogLoad: LoadMap: /Game/LearningKit_Games/Maps/PlatformerWorld
+[2023.10.06-22.49.02:253][260]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld
+[2023.10.06-22.49.02:254][260]LogWorld: UWorld::CleanupWorld for PlatformerWorld, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.49.02:260][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.49.02:324][260]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.06-22.49.02:335][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.10.06-22.49.02:341][260]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld
+[2023.10.06-22.49.02:422][260]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081395s)
+[2023.10.06-22.49.02:422][260]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld to /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld.PlatformerWorld (0.081435s)
+[2023.10.06-22.49.02:422][260]LogAudio: Display: Audio Device (ID: 9) registered with world 'PlatformerWorld'.
+[2023.10.06-22.49.02:422][260]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-22.49.02:422][260]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.10.06-22.49.02:423][260]LogAIModule: Creating AISystem for world PlatformerWorld
+[2023.10.06-22.49.02:423][260]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2023.10.06-22.49.02:423][260]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2023.10.06-22.49.02:456][260]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld.PlatformerWorld up for play (max tick rate 0) at 2023.10.06-17.49.02
+[2023.10.06-22.49.02:457][260]LogWorld: Bringing up level for play took: 0.033671
+[2023.10.06-22.49.02:462][260]LogLoad: Took 0.208854 seconds to LoadMap(/Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld)
+[2023.10.06-22.50.33:920][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.06-22.50.33:920][208]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld
+[2023.10.06-22.50.33:921][208]LogWorld: UWorld::CleanupWorld for PlatformerWorld, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.50.33:927][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.50.33:936][208]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.06-22.50.33:940][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.50.33:964][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.06-22.50.33:964][208]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2023.10.06-22.50.33:964][208]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.10.06-22.50.33:965][208]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.10.06-22.50.33:980][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.10.06-22.50.34:027][209]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.10.06-22.50.46:072][592]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2023.10.06-22.50.46:072][592]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2023.10.06-22.50.46:072][592]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.NavMeshBoundsVolume_2
+[2023.10.06-22.50.46:073][592]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.NavMeshBoundsVolume_2
+[2023.10.06-22.50.48:694][879]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2023.10.06-22.50.48:694][879]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2023.10.06-22.50.48:695][879]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.NavMeshBoundsVolume_3
+[2023.10.06-22.50.48:696][879]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.NavMeshBoundsVolume_3
+[2023.10.06-22.51.34:958][211]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer_C
+[2023.10.06-22.51.34:958][211]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer_C
+[2023.10.06-22.51.34:963][211]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer as actor: BP_Pursuer_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_4
+[2023.10.06-22.51.34:965][211]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer as actor: BP_Pursuer_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_4
+[2023.10.06-22.51.38:004][571]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer_C
+[2023.10.06-22.51.38:004][571]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer_C
+[2023.10.06-22.51.38:010][571]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer as actor: BP_Pursuer_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_5
+[2023.10.06-22.51.38:012][571]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer as actor: BP_Pursuer_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_5
+[2023.10.06-22.52.39:808][938]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2023.10.06-22.52.39:809][938]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2023.10.06-22.52.39:809][938]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.NavMeshBoundsVolume_4
+[2023.10.06-22.52.39:810][938]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.NavMeshBoundsVolume_4
+[2023.10.06-22.52.40:813][ 49]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2023.10.06-22.52.40:813][ 49]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2023.10.06-22.52.40:814][ 49]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.NavMeshBoundsVolume_5
+[2023.10.06-22.52.40:814][ 49]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.NavMeshBoundsVolume_5
+[2023.10.06-22.53.32:925][119]Cmd: EDIT COPY
+[2023.10.06-22.53.36:128][498]Cmd: EDIT PASTE
+[2023.10.06-22.53.54:526][616]Cmd: SELECT NONE
+[2023.10.06-22.53.59:440][169]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer_C
+[2023.10.06-22.53.59:440][169]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer_C
+[2023.10.06-22.53.59:444][169]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer as actor: BP_Pursuer_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_6
+[2023.10.06-22.53.59:446][169]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer as actor: BP_Pursuer_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_6
+[2023.10.06-22.54.00:842][334]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer_C
+[2023.10.06-22.54.00:842][334]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer_C
+[2023.10.06-22.54.00:848][334]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer as actor: BP_Pursuer_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_7
+[2023.10.06-22.54.00:850][334]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer as actor: BP_Pursuer_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_7
+[2023.10.06-22.54.25:928][167]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer_C
+[2023.10.06-22.54.25:928][167]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer_C
+[2023.10.06-22.54.25:933][167]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer as actor: BP_Pursuer_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_8
+[2023.10.06-22.54.25:936][167]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer as actor: BP_Pursuer_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_8
+[2023.10.06-22.54.26:734][258]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer_C
+[2023.10.06-22.54.26:734][258]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer_C
+[2023.10.06-22.54.26:739][258]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer as actor: BP_Pursuer_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_9
+[2023.10.06-22.54.26:742][258]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer as actor: BP_Pursuer_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_9
+[2023.10.06-22.54.35:050][233]Cmd: SELECT NONE
+[2023.10.06-22.54.51:280][156]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-22.54.51:292][157]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-22.54.51:310][158]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-22.54.53:367][360]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2023.10.06-22.54.53:367][360]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2023.10.06-22.54.53:367][360]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.NavMeshBoundsVolume_7
+[2023.10.06-22.54.53:368][360]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.NavMeshBoundsVolume_7
+[2023.10.06-22.54.54:170][450]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2023.10.06-22.54.54:170][450]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2023.10.06-22.54.54:172][450]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.NavMeshBoundsVolume_8
+[2023.10.06-22.54.54:173][450]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.NavMeshBoundsVolume_8
+[2023.10.06-22.56.13:351][695]Cmd: EDIT COPY
+[2023.10.06-22.56.14:042][778]Cmd: EDIT PASTE
+[2023.10.06-22.56.40:539][870]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer_C
+[2023.10.06-22.56.40:540][870]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer_C
+[2023.10.06-22.56.40:544][870]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer as actor: BP_Pursuer_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_10
+[2023.10.06-22.56.40:546][870]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer as actor: BP_Pursuer_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_10
+[2023.10.06-22.56.41:474][976]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer_C
+[2023.10.06-22.56.41:474][976]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer_C
+[2023.10.06-22.56.41:480][976]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer as actor: BP_Pursuer_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_11
+[2023.10.06-22.56.41:482][976]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer as actor: BP_Pursuer_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_11
+[2023.10.06-22.56.57:908][858]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer_C
+[2023.10.06-22.56.57:908][858]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer_C
+[2023.10.06-22.56.57:913][858]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer as actor: BP_Pursuer_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_12
+[2023.10.06-22.56.57:915][858]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer as actor: BP_Pursuer_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_12
+[2023.10.06-22.56.58:558][930]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer_C
+[2023.10.06-22.56.58:558][930]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer_C
+[2023.10.06-22.56.58:564][930]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer as actor: BP_Pursuer_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_13
+[2023.10.06-22.56.58:566][930]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer as actor: BP_Pursuer_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_13
+[2023.10.06-22.57.08:998][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.10.06-22.57.09:018][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.10.06-22.57.09:908][125]LogSlate: Window 'Save Content' being destroyed
+[2023.10.06-22.57.09:912][125]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.06-22.57.09:989][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.10.06-22.57.10:125][125]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/PlatformerWorld
+[2023.10.06-22.57.10:125][125]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Saved/PlatformerWorldF75BE2FF46CD7F5D61C95D8EF0E4E373.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Content/LearningKit_Games/Maps/PlatformerWorld.umap'
+[2023.10.06-22.57.10:132][125]LogFileHelpers: Saving map 'PlatformerWorld' took 0.162
+[2023.10.06-22.57.10:148][125]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer
+[2023.10.06-22.57.10:148][125]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Saved/BP_Pursuer3B3D127240366B6E3AEDD897433B4224.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Content/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.uasset'
+[2023.10.06-22.57.10:185][125]LogSavePackage: Moving output files for package: /Game/ControlRig/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK
+[2023.10.06-22.57.10:185][125]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Saved/CR_Mannequin_BasicFootIKD3DF8E7A4A6956791528EB93AD3CC0CA.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Content/ControlRig/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.uasset'
+[2023.10.06-22.57.10:190][125]LogFileHelpers: InternalPromptForCheckoutAndSave took 278 ms (total: 1.02 sec)
+[2023.10.06-22.57.10:197][125]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.06-22.57.10:197][125]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld
+[2023.10.06-22.57.10:197][125]LogContentValidation: Display: Validating /Script/ControlRigDeveloper.ControlRigBlueprint /Game/ControlRig/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK
+[2023.10.06-22.57.10:197][125]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer
+[2023.10.06-23.03.21:687][978]BlueprintLog: New page: Compile BP_Pursuer
+[2023.10.06-23.03.22:023][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.10.06-23.04.25:620][ 99]BlueprintLog: New page: Compile BP_Pursuer
+[2023.10.06-23.04.25:740][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.10.06-23.04.27:022][208]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.06-23.04.27:025][208]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.06-23.04.27:025][208]PIE: New page: PIE session: PlatformerWorld (Oct 6, 2023, 1:04:27 PM)
+[2023.10.06-23.04.27:056][208]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld
+[2023.10.06-23.04.27:139][208]LogPlayLevel: PIE: StaticDuplicateObject took: (0.083489s)
+[2023.10.06-23.04.27:139][208]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld to /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld.PlatformerWorld (0.083521s)
+[2023.10.06-23.04.27:139][208]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-23.04.27:139][208]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.10.06-23.04.27:140][208]LogAIModule: Creating AISystem for world PlatformerWorld
+[2023.10.06-23.04.27:140][208]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2023.10.06-23.04.27:188][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.10.06-23.04.27:195][208]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.10.06-23.04.27:195][208]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.06-23.04.27:195][208]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.06-23.04.27:195][208]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.06-23.04.27:195][208]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.06-23.04.27:195][208]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.06-23.04.27:195][208]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.06-23.04.27:195][208]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.06-23.04.27:195][208]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.06-23.04.27:195][208]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.06-23.04.27:195][208]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.06-23.04.27:195][208]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.06-23.04.27:197][208]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.06-23.04.27:207][208]LogAudioMixer: Display: Using Audio Hardware Device Headset (Sreedhar's Buds2 Pro Hands-Free AG Audio)
+[2023.10.06-23.04.27:207][208]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.06-23.04.27:207][208]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.06-23.04.27:207][208]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.06-23.04.27:208][208]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.10.06-23.04.27:208][208]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.10.06-23.04.27:209][208]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.10.06-23.04.27:209][208]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.10.06-23.04.27:209][208]LogInit: FAudioDevice initialized with ID 10.
+[2023.10.06-23.04.27:209][208]LogAudio: Display: Audio Device (ID: 10) registered with world 'PlatformerWorld'.
+[2023.10.06-23.04.27:209][208]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2023.10.06-23.04.27:212][208]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2023.10.06-23.04.27:260][208]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld.PlatformerWorld up for play (max tick rate 0) at 2023.10.06-18.04.27
+[2023.10.06-23.04.27:261][208]LogWorld: Bringing up level for play took: 0.049504
+[2023.10.06-23.04.27:263][208]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2023.10.06-23.04.27:269][208]PIE: Server logged in
+[2023.10.06-23.04.27:270][208]PIE: Play in editor total start time 0.245 seconds.
+[2023.10.06-23.05.50:030][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.06-23.05.50:030][105]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld
+[2023.10.06-23.05.50:030][105]LogWorld: UWorld::CleanupWorld for PlatformerWorld, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-23.05.50:037][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-23.05.50:050][105]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.06-23.05.50:053][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-23.05.50:082][105]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.06-23.05.50:082][105]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2023.10.06-23.05.50:082][105]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.10.06-23.05.50:083][105]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.10.06-23.05.50:086][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.06-23.05.50:098][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.10.06-23.05.50:143][106]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.10.06-23.06.37:623][685]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:623][685]LogPhysics: Warning: Scale for /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_3.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:623][685]LogPhysics: Warning: Scale for /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:623][685]LogPhysics: Warning: Scale for /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_13.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:623][685]LogPhysics: Warning: Scale for /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_5.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:623][685]LogPhysics: Warning: Scale for /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_11.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:623][685]LogPhysics: Warning: Scale for /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_7.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:623][685]LogPhysics: Warning: Scale for /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Pursuer_C_9.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:623][685]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:631][686]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:639][687]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:648][688]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:656][689]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:664][690]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:673][691]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:681][692]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:689][693]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:698][694]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:706][695]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:714][696]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:723][697]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:731][698]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:739][699]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:748][700]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:756][701]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:764][702]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:773][703]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:781][704]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:789][705]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:798][706]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:806][707]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:814][708]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:823][709]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:831][710]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:839][711]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:848][712]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:856][713]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:864][714]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:873][715]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:881][716]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:889][717]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:898][718]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:906][719]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:914][720]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:923][721]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:931][722]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:939][723]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:948][724]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:956][725]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:964][726]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:973][727]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:981][728]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:990][729]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.37:998][730]LogPhysics: Warning: Scale for /Engine/Transient.World_20:PersistentLevel.BP_Pursuer_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.10.06-23.06.52:768][475]BlueprintLog: New page: Compile BP_Pursuer
+[2023.10.06-23.06.52:894][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.10.06-23.07.11:910][686]LogDerivedDataCache: C:/Users/Sreedhar Ramesh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:16.090 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 8487 files in 10844 folders with total size 624 MiB.
+[2023.10.06-23.07.24:668][198]BlueprintLog: New page: Compile BP_Pursuer
+[2023.10.06-23.07.24:792][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.10.06-23.07.28:064][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.10.06-23.07.28:086][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.10.06-23.07.29:116][563]LogSlate: Window 'Save Content' being destroyed
+[2023.10.06-23.07.29:128][563]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.06-23.07.29:231][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.10.06-23.07.29:370][563]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/PlatformerWorld
+[2023.10.06-23.07.29:370][563]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Saved/PlatformerWorld5139CFB749867018D82E94B8AC7A2E21.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Content/LearningKit_Games/Maps/PlatformerWorld.umap'
+[2023.10.06-23.07.29:379][563]LogFileHelpers: Saving map 'PlatformerWorld' took 0.195
+[2023.10.06-23.07.29:405][563]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer
+[2023.10.06-23.07.29:405][563]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Saved/BP_PursuerE2D8C6B74591B6CA6F9727B93D8FF517.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Content/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.uasset'
+[2023.10.06-23.07.29:410][563]LogFileHelpers: InternalPromptForCheckoutAndSave took 281 ms (total: 1.30 sec)
+[2023.10.06-23.07.29:417][563]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.06-23.07.29:417][563]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld
+[2023.10.06-23.07.29:417][563]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer
