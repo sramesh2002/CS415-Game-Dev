@@ -1696,3 +1696,181 @@ Make sure 'BP_CannonBall_C' has been compiled for  Get LaunchVelo
 [2023.10.06-22.25.02:184][999]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret
 [2023.10.06-22.25.02:184][999]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Bullet.BP_Bullet
 [2023.10.06-22.25.02:184][999]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld
+[2023.10.06-22.26.27:611][442]BlueprintLog: New page: Compile BP_AutoTurret
+[2023.10.06-22.26.27:649][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.10.06-22.27.19:806][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.10.06-22.27.19:825][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.10.06-22.27.20:692][575]LogSlate: Window 'Save Content' being destroyed
+[2023.10.06-22.27.20:697][575]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.06-22.27.20:768][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.10.06-22.27.20:898][575]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/PlatformerWorld
+[2023.10.06-22.27.20:898][575]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Saved/PlatformerWorld23E51D484910F2C7A2EF53A7AC49D266.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Content/LearningKit_Games/Maps/PlatformerWorld.umap'
+[2023.10.06-22.27.20:904][575]LogFileHelpers: Saving map 'PlatformerWorld' took 0.155
+[2023.10.06-22.27.20:922][575]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret
+[2023.10.06-22.27.20:922][575]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Saved/BP_AutoTurret03F36B334EB64913C6C843BE6F900C2E.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Content/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.uasset'
+[2023.10.06-22.27.20:927][575]LogFileHelpers: InternalPromptForCheckoutAndSave took 229 ms (total: 543 ms)
+[2023.10.06-22.27.20:935][575]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.06-22.27.20:935][575]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret
+[2023.10.06-22.27.20:935][575]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld
+[2023.10.06-22.27.31:080][784]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.06-22.27.31:083][784]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.06-22.27.31:083][784]PIE: New page: PIE session: PlatformerWorld (Oct 6, 2023, 12:27:31 PM)
+[2023.10.06-22.27.31:131][784]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld
+[2023.10.06-22.27.31:210][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078476s)
+[2023.10.06-22.27.31:210][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld to /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld.PlatformerWorld (0.078509s)
+[2023.10.06-22.27.31:210][784]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-22.27.31:210][784]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.10.06-22.27.31:210][784]LogAIModule: Creating AISystem for world PlatformerWorld
+[2023.10.06-22.27.31:210][784]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2023.10.06-22.27.31:228][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.10.06-22.27.31:229][784]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.10.06-22.27.31:229][784]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.06-22.27.31:229][784]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.06-22.27.31:229][784]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.06-22.27.31:229][784]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.06-22.27.31:229][784]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.06-22.27.31:229][784]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.06-22.27.31:229][784]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.06-22.27.31:229][784]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.06-22.27.31:230][784]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.06-22.27.31:230][784]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.06-22.27.31:230][784]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.06-22.27.31:231][784]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.06-22.27.31:241][784]LogAudioMixer: Display: Using Audio Hardware Device Headset (Sreedhar's Buds2 Pro Hands-Free AG Audio)
+[2023.10.06-22.27.31:242][784]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.06-22.27.31:242][784]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.06-22.27.31:242][784]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.06-22.27.31:242][784]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.10.06-22.27.31:242][784]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.10.06-22.27.31:243][784]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.10.06-22.27.31:243][784]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.10.06-22.27.31:243][784]LogInit: FAudioDevice initialized with ID 6.
+[2023.10.06-22.27.31:243][784]LogAudio: Display: Audio Device (ID: 6) registered with world 'PlatformerWorld'.
+[2023.10.06-22.27.31:243][784]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2023.10.06-22.27.31:245][784]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2023.10.06-22.27.31:280][784]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld.PlatformerWorld up for play (max tick rate 0) at 2023.10.06-17.27.31
+[2023.10.06-22.27.31:281][784]LogWorld: Bringing up level for play took: 0.035383
+[2023.10.06-22.27.31:282][784]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.10.06-22.27.31:288][784]PIE: Server logged in
+[2023.10.06-22.27.31:289][784]PIE: Play in editor total start time 0.206 seconds.
+[2023.10.06-22.28.02:430][510]LogCharacterMovement: BP_LearningKit_PlayerCharacter_C_0 is stuck and failed to move! Velocity: X=214.10 Y=106.07 Z=0.00 Location: X=1644.54 Y=6735.73 Z=48.15 Normal: X=-0.72 Y=0.69 Z=0.00 PenetrationDepth:5.729 Actor:BP_Bullet_C_8 Component:Sphere BoneName:None (0 other events since notify)
+[2023.10.06-22.28.52:198][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.06-22.28.52:198][474]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld
+[2023.10.06-22.28.52:198][474]LogWorld: UWorld::CleanupWorld for PlatformerWorld, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.28.52:203][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.28.52:206][474]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.06-22.28.52:211][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.28.52:227][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.06-22.28.52:232][474]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2023.10.06-22.28.52:232][474]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.10.06-22.28.52:234][474]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.10.06-22.28.52:246][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.10.06-22.28.52:272][475]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.10.06-22.28.54:684][746]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret_C
+[2023.10.06-22.28.54:684][746]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret_C
+[2023.10.06-22.28.54:685][746]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret as actor: BP_AutoTurret_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_AutoTurret_C_4
+[2023.10.06-22.28.54:686][746]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret as actor: BP_AutoTurret_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_AutoTurret_C_4
+[2023.10.06-22.28.54:689][746]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.10.06-22.28.58:750][199]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret_C
+[2023.10.06-22.28.58:750][199]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret_C
+[2023.10.06-22.28.58:751][199]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret as actor: BP_AutoTurret_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_AutoTurret_C_6
+[2023.10.06-22.28.58:752][199]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret as actor: BP_AutoTurret_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_AutoTurret_C_6
+[2023.10.06-22.29.13:219][868]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Mortar.BP_Mortar_C
+[2023.10.06-22.29.13:219][868]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Mortar.BP_Mortar_C
+[2023.10.06-22.29.13:221][868]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Mortar.BP_Mortar as actor: BP_Mortar_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Mortar_C_0
+[2023.10.06-22.29.13:221][868]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Mortar.BP_Mortar as actor: BP_Mortar_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Mortar_C_0
+[2023.10.06-22.29.14:330][982]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Mortar.BP_Mortar_C
+[2023.10.06-22.29.14:330][982]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Mortar.BP_Mortar_C
+[2023.10.06-22.29.14:332][982]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Mortar.BP_Mortar as actor: BP_Mortar_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Mortar_C_1
+[2023.10.06-22.29.14:333][982]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Mortar.BP_Mortar as actor: BP_Mortar_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Mortar_C_1
+[2023.10.06-22.29.18:745][484]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret_C
+[2023.10.06-22.29.18:745][484]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret_C
+[2023.10.06-22.29.18:745][484]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret as actor: BP_AutoTurret_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_AutoTurret_C_7
+[2023.10.06-22.29.18:747][484]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret as actor: BP_AutoTurret_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_AutoTurret_C_7
+[2023.10.06-22.29.20:409][662]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret_C
+[2023.10.06-22.29.20:409][662]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret_C
+[2023.10.06-22.29.20:411][662]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret as actor: BP_AutoTurret_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_AutoTurret_C_8
+[2023.10.06-22.29.20:412][662]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret as actor: BP_AutoTurret_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_AutoTurret_C_8
+[2023.10.06-22.29.30:595][862]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret_C
+[2023.10.06-22.29.30:595][862]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret_C
+[2023.10.06-22.29.30:596][862]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret as actor: BP_AutoTurret_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_AutoTurret_C_9
+[2023.10.06-22.29.30:597][862]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret as actor: BP_AutoTurret_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_AutoTurret_C_9
+[2023.10.06-22.29.31:928][  7]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret_C
+[2023.10.06-22.29.31:928][  7]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret_C
+[2023.10.06-22.29.31:930][  7]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret as actor: BP_AutoTurret_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_AutoTurret_C_10
+[2023.10.06-22.29.31:931][  7]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret as actor: BP_AutoTurret_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_AutoTurret_C_10
+[2023.10.06-22.29.54:569][656]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Mortar.BP_Mortar_C
+[2023.10.06-22.29.54:569][656]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Mortar.BP_Mortar_C
+[2023.10.06-22.29.54:570][656]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Mortar.BP_Mortar as actor: BP_Mortar_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Mortar_C_2
+[2023.10.06-22.29.54:571][656]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Mortar.BP_Mortar as actor: BP_Mortar_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Mortar_C_2
+[2023.10.06-22.29.55:914][802]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Mortar.BP_Mortar_C
+[2023.10.06-22.29.55:914][802]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Mortar.BP_Mortar_C
+[2023.10.06-22.29.55:916][802]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Mortar.BP_Mortar as actor: BP_Mortar_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Mortar_C_3
+[2023.10.06-22.29.55:917][802]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Mortar.BP_Mortar as actor: BP_Mortar_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Mortar_C_3
+[2023.10.06-22.29.59:007][150]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret_C
+[2023.10.06-22.29.59:007][150]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret_C
+[2023.10.06-22.29.59:008][150]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret as actor: BP_AutoTurret_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_AutoTurret_C_11
+[2023.10.06-22.29.59:009][150]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret as actor: BP_AutoTurret_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_AutoTurret_C_11
+[2023.10.06-22.30.00:015][264]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret_C
+[2023.10.06-22.30.00:015][264]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret_C
+[2023.10.06-22.30.00:017][264]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret as actor: BP_AutoTurret_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_AutoTurret_C_12
+[2023.10.06-22.30.00:018][264]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret as actor: BP_AutoTurret_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_AutoTurret_C_12
+[2023.10.06-22.30.41:335][ 66]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret_C
+[2023.10.06-22.30.41:335][ 66]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret_C
+[2023.10.06-22.30.41:337][ 66]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret as actor: BP_AutoTurret_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_AutoTurret_C_13
+[2023.10.06-22.30.41:338][ 66]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret as actor: BP_AutoTurret_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_AutoTurret_C_13
+[2023.10.06-22.30.43:076][252]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret_C
+[2023.10.06-22.30.43:076][252]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret_C
+[2023.10.06-22.30.43:078][252]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret as actor: BP_AutoTurret_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_AutoTurret_C_14
+[2023.10.06-22.30.43:080][252]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret as actor: BP_AutoTurret_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_AutoTurret_C_14
+[2023.10.06-22.30.53:668][463]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Mortar.BP_Mortar_C
+[2023.10.06-22.30.53:668][463]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Mortar.BP_Mortar_C
+[2023.10.06-22.30.53:669][463]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Mortar.BP_Mortar as actor: BP_Mortar_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Mortar_C_4
+[2023.10.06-22.30.53:670][463]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Mortar.BP_Mortar as actor: BP_Mortar_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Mortar_C_4
+[2023.10.06-22.30.54:421][546]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Mortar.BP_Mortar_C
+[2023.10.06-22.30.54:421][546]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Mortar.BP_Mortar_C
+[2023.10.06-22.30.54:423][546]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Mortar.BP_Mortar as actor: BP_Mortar_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Mortar_C_5
+[2023.10.06-22.30.54:425][546]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Mortar.BP_Mortar as actor: BP_Mortar_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Mortar_C_5
+[2023.10.06-22.31.02:069][442]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret_C
+[2023.10.06-22.31.02:069][442]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret_C
+[2023.10.06-22.31.02:070][442]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret as actor: BP_AutoTurret_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_AutoTurret_C_15
+[2023.10.06-22.31.02:071][442]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret as actor: BP_AutoTurret_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_AutoTurret_C_15
+[2023.10.06-22.31.02:994][535]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret_C
+[2023.10.06-22.31.02:994][535]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret_C
+[2023.10.06-22.31.02:996][535]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret as actor: BP_AutoTurret_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_AutoTurret_C_16
+[2023.10.06-22.31.02:997][535]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret as actor: BP_AutoTurret_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_AutoTurret_C_16
+[2023.10.06-22.31.16:603][117]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Mortar.BP_Mortar_C
+[2023.10.06-22.31.16:603][117]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Mortar.BP_Mortar_C
+[2023.10.06-22.31.16:604][117]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Mortar.BP_Mortar as actor: BP_Mortar_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Mortar_C_6
+[2023.10.06-22.31.16:605][117]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Mortar.BP_Mortar as actor: BP_Mortar_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Mortar_C_6
+[2023.10.06-22.31.18:041][270]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Mortar.BP_Mortar_C
+[2023.10.06-22.31.18:041][270]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_Mortar.BP_Mortar_C
+[2023.10.06-22.31.18:043][270]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Mortar.BP_Mortar as actor: BP_Mortar_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Mortar_C_7
+[2023.10.06-22.31.18:044][270]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Mortar.BP_Mortar as actor: BP_Mortar_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_Mortar_C_7
+[2023.10.06-22.31.22:663][804]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret_C
+[2023.10.06-22.31.22:663][804]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret_C
+[2023.10.06-22.31.22:664][804]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret as actor: BP_AutoTurret_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_AutoTurret_C_17
+[2023.10.06-22.31.22:666][804]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret as actor: BP_AutoTurret_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_AutoTurret_C_17
+[2023.10.06-22.31.23:710][910]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret_C
+[2023.10.06-22.31.23:710][910]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret_C
+[2023.10.06-22.31.23:712][910]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret as actor: BP_AutoTurret_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_AutoTurret_C_18
+[2023.10.06-22.31.23:713][910]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret as actor: BP_AutoTurret_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_AutoTurret_C_18
+[2023.10.06-22.31.33:568][ 61]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret_C
+[2023.10.06-22.31.33:568][ 61]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret_C
+[2023.10.06-22.31.33:569][ 61]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret as actor: BP_AutoTurret_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_AutoTurret_C_19
+[2023.10.06-22.31.33:570][ 61]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret as actor: BP_AutoTurret_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_AutoTurret_C_19
+[2023.10.06-22.31.34:349][138]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret_C
+[2023.10.06-22.31.34:349][138]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret_C
+[2023.10.06-22.31.34:351][138]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret as actor: BP_AutoTurret_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_AutoTurret_C_20
+[2023.10.06-22.31.34:352][138]LogActorFactory: Actor Factory spawned Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_AutoTurret.BP_AutoTurret as actor: BP_AutoTurret_C /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld:PersistentLevel.BP_AutoTurret_C_20
+[2023.10.06-22.32.04:795][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.10.06-22.32.04:816][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.10.06-22.32.06:172][689]LogSlate: Window 'Save Content' being destroyed
+[2023.10.06-22.32.06:179][689]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.06-22.32.06:236][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.10.06-22.32.06:372][689]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/PlatformerWorld
+[2023.10.06-22.32.06:372][689]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Saved/PlatformerWorld4F55684D461173500D4A3A9AA1B727AC.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Content/LearningKit_Games/Maps/PlatformerWorld.umap'
+[2023.10.06-22.32.06:379][689]LogFileHelpers: Saving map 'PlatformerWorld' took 0.165
+[2023.10.06-22.32.06:384][689]LogFileHelpers: InternalPromptForCheckoutAndSave took 205 ms (total: 749 ms)
+[2023.10.06-22.32.06:391][689]AssetCheck: New page: Asset Save: PlatformerWorld
+[2023.10.06-22.32.06:391][689]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld
