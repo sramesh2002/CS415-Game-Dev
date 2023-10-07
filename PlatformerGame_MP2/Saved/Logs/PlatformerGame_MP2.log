@@ -2395,3 +2395,216 @@ Please use /Niagara/DynamicInputs/Angles/AngleConversion.AngleConversion instead
 [2023.10.07-21.48.14:241][947]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer_Auto4
 [2023.10.07-21.48.14:241][947]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Saved/BP_Pursuer_Auto4110217B04051A2C9EF8FCEAC27AA9A8C.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Saved/Autosaves/Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer_Auto4.uasset'
 [2023.10.07-21.48.14:242][947]LogFileHelpers: Auto-saving content packages took 0.015
+[2023.10.07-21.51.43:817][726]MapCheck: New page: Map Check
+[2023.10.07-21.51.43:833][726]Cmd: MAP REBUILD ALLVISIBLE
+[2023.10.07-21.51.43:833][726]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2023.10.07-21.51.43:847][726]LogWorld: UWorld::CleanupWorld for PlatformerWorld, bSessionEnded=true, bCleanupResources=false
+[2023.10.07-21.51.43:895][726]LogShaderCompilers: Display: ================================================
+[2023.10.07-21.51.43:895][726]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.07-21.51.43:895][726]LogShaderCompilers: Display: Total job queries 2,762, among them cache hits 39 (1.41%)
+[2023.10.07-21.51.43:895][726]LogShaderCompilers: Display: Tracking 2,722 distinct input hashes that result in 1,947 distinct outputs (71.53%)
+[2023.10.07-21.51.43:895][726]LogShaderCompilers: Display: RAM used: 8.97 MiB of 1.60 GiB budget. Usage: 0.55%
+[2023.10.07-21.51.43:895][726]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.07-21.51.43:895][726]LogShaderCompilers: Display: Shaders Compiled: 2,718
+[2023.10.07-21.51.43:895][726]LogShaderCompilers: Display: Jobs assigned 2,718, completed 2,718 (100.00%)
+[2023.10.07-21.51.43:895][726]LogShaderCompilers: Display: Average time worker was idle: 58.71 s
+[2023.10.07-21.51.43:895][726]LogShaderCompilers: Display: Time job spent in pending queue: average 116.19 s, longest 284.58 s
+[2023.10.07-21.51.43:895][726]LogShaderCompilers: Display: Job execution time: average 12.39 s, max 36.45 s
+[2023.10.07-21.51.43:895][726]LogShaderCompilers: Display: Job life time (pending + execution): average 128.58 s, max 293.34
+[2023.10.07-21.51.43:895][726]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 309.24 s
+[2023.10.07-21.51.43:895][726]LogShaderCompilers: Display: Jobs were issued in 442 batches (only local compilation was used), average 6.15 jobs/batch
+[2023.10.07-21.51.43:895][726]LogShaderCompilers: Display: Average processing rate: 8.79 jobs/sec
+[2023.10.07-21.51.43:895][726]LogShaderCompilers: Display: Total thread time: 2,482.566 s
+[2023.10.07-21.51.43:895][726]LogShaderCompilers: Display: Total thread preprocess time: 55.969 s
+[2023.10.07-21.51.43:895][726]LogShaderCompilers: Display: Percentage time preprocessing: 2.25%
+[2023.10.07-21.51.43:895][726]LogShaderCompilers: Display: Effective parallelization: 8.03 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.10.07-21.51.43:895][726]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.10.07-21.51.43:895][726]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 13.77 sec, max 13.77 sec, min 13.77 sec)
+[2023.10.07-21.51.43:895][726]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 8.20 sec, max 25.11 sec, min 1.92 sec)
+[2023.10.07-21.51.43:895][726]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 6.52 sec, max 16.79 sec, min 0.48 sec)
+[2023.10.07-21.51.43:895][726]LogShaderCompilers: Display:                                   FScreenSpaceShortRangeAOCS (compiled   12 times, average 5.37 sec, max 23.63 sec, min 0.53 sec)
+[2023.10.07-21.51.43:895][726]LogShaderCompilers: Display:                                    FShadingFurnaceTestPassPS (compiled    1 times, average 3.47 sec, max 3.47 sec, min 3.47 sec)
+[2023.10.07-21.51.43:895][726]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.10.07-21.51.43:895][726]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 14.03% of total time (compiled  128 times, average 2.72 sec, max 4.18 sec, min 1.97 sec)
+[2023.10.07-21.51.43:895][726]LogShaderCompilers: Display:                                             FDeferredLightPS - 9.39% of total time (compiled  102 times, average 2.28 sec, max 5.18 sec, min 0.45 sec)
+[2023.10.07-21.51.43:895][726]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 9.25% of total time (compiled  128 times, average 1.79 sec, max 4.84 sec, min 0.33 sec)
+[2023.10.07-21.51.43:895][726]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 6.58% of total time (compiled  128 times, average 1.28 sec, max 2.28 sec, min 0.76 sec)
+[2023.10.07-21.51.43:895][726]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 6.04% of total time (compiled   96 times, average 1.56 sec, max 3.50 sec, min 0.33 sec)
+[2023.10.07-21.51.43:895][726]LogShaderCompilers: Display: ================================================
+[2023.10.07-21.51.43:902][726]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2023.10.07-21.51.43:906][726]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2023.10.07-21.51.43:906][726]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2023.10.07-21.51.43:914][726]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 0.01s
+[2023.10.07-21.51.43:914][726]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.01s
+[2023.10.07-21.51.43:939][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.10.07-21.51.48:916][726]LogLevel: Display: Export Material TexCoord Scales took 0.297 seconds.
+[2023.10.07-21.51.48:923][726]TextureStreamingBuild: Display: Build Texture Streaming took 0.007 seconds.
+[2023.10.07-21.51.48:958][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.10.07-21.51.48:969][726]LightingResults: New page: Lighting Build - Oct 7, 2023, 11:51:48 AM
+[2023.10.07-21.51.48:969][726]LogStaticLightingSystem: Warning: WorldSettings.bForceNoPrecomputedLighting is true, Skipping Lighting Build!
+[2023.10.07-21.51.49:008][726]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2023.10.07-21.51.49:008][726]MapCheck: New page: PlatformerWorld - Oct 7, 2023, 11:51:49 AM
+[2023.10.07-21.51.49:020][726]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.301ms to complete.
+[2023.10.07-21.51.49:020][726]LogEditorBuildUtils: Build time 0:05
+[2023.10.07-21.52.33:045][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.10.07-21.52.33:068][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.10.07-21.52.34:559][851]LogSlate: Window 'Save Content' being destroyed
+[2023.10.07-21.52.34:564][851]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.07-21.52.34:664][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.10.07-21.52.34:803][851]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/PlatformerWorld
+[2023.10.07-21.52.34:803][851]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Saved/PlatformerWorld2362FDAA44B011FDFCC5D693D9C2A755.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Content/LearningKit_Games/Maps/PlatformerWorld.umap'
+[2023.10.07-21.52.34:810][851]LogFileHelpers: Saving map 'PlatformerWorld' took 0.194
+[2023.10.07-21.52.34:819][851]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer
+[2023.10.07-21.52.34:820][851]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Saved/BP_PursuerA18C1B514582D7764373FFAB1F00675C.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Content/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.uasset'
+[2023.10.07-21.52.34:824][851]LogFileHelpers: InternalPromptForCheckoutAndSave took 260 ms (total: 1.32 sec)
+[2023.10.07-21.52.34:831][851]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.07-21.52.34:831][851]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld
+[2023.10.07-21.52.34:831][851]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/Interactables/BP_Pursuer.BP_Pursuer
+[2023.10.07-21.52.37:535][160]MapCheck: New page: Map Check
+[2023.10.07-21.52.37:549][160]Cmd: MAP REBUILD ALLVISIBLE
+[2023.10.07-21.52.37:550][160]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2023.10.07-21.52.37:560][160]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2023.10.07-21.52.37:560][160]LogWorld: UWorld::CleanupWorld for PlatformerWorld, bSessionEnded=true, bCleanupResources=false
+[2023.10.07-21.52.37:610][160]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2023.10.07-21.52.37:613][160]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2023.10.07-21.52.37:613][160]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2023.10.07-21.52.37:620][160]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 0.01s
+[2023.10.07-21.52.37:620][160]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.01s
+[2023.10.07-21.52.37:640][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.10.07-21.52.37:661][160]LogLevel: Display: Export Material TexCoord Scales took 0.018 seconds.
+[2023.10.07-21.52.37:666][160]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2023.10.07-21.52.37:685][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.10.07-21.52.37:689][160]LightingResults: New page: Lighting Build - Oct 7, 2023, 11:52:37 AM
+[2023.10.07-21.52.37:689][160]LogStaticLightingSystem: Warning: WorldSettings.bForceNoPrecomputedLighting is true, Skipping Lighting Build!
+[2023.10.07-21.52.37:721][160]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2023.10.07-21.52.37:721][160]MapCheck: New page: PlatformerWorld - Oct 7, 2023, 11:52:37 AM
+[2023.10.07-21.52.37:731][160]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.222ms to complete.
+[2023.10.07-21.52.37:731][160]LogEditorBuildUtils: Build time 0:00
+[2023.10.07-21.52.40:522][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.10.07-21.52.40:545][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.10.07-21.52.43:293][438]LogSlate: Window 'Save Content' being destroyed
+[2023.10.07-21.52.43:298][438]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.07-21.52.43:369][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.10.07-21.52.43:504][438]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/PlatformerWorld
+[2023.10.07-21.52.43:505][438]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Saved/PlatformerWorld38806D1D4468333272C817B560789031.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Content/LearningKit_Games/Maps/PlatformerWorld.umap'
+[2023.10.07-21.52.43:512][438]LogFileHelpers: Saving map 'PlatformerWorld' took 0.163
+[2023.10.07-21.52.43:517][438]LogFileHelpers: InternalPromptForCheckoutAndSave took 219 ms (total: 1.54 sec)
+[2023.10.07-21.52.43:523][438]AssetCheck: New page: Asset Save: PlatformerWorld
+[2023.10.07-21.52.43:523][438]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld
+[2023.10.07-21.52.45:347][632]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.07-21.52.45:391][632]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.07-21.52.45:391][632]PIE: New page: PIE session: PlatformerWorld (Oct 7, 2023, 11:52:45 AM)
+[2023.10.07-21.52.45:437][632]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld
+[2023.10.07-21.52.45:533][632]LogPlayLevel: PIE: StaticDuplicateObject took: (0.096387s)
+[2023.10.07-21.52.45:533][632]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld to /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld.PlatformerWorld (0.096424s)
+[2023.10.07-21.52.45:533][632]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.07-21.52.45:533][632]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.10.07-21.52.45:534][632]LogAIModule: Creating AISystem for world PlatformerWorld
+[2023.10.07-21.52.45:534][632]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2023.10.07-21.52.45:553][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.10.07-21.52.45:557][632]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.10.07-21.52.45:558][632]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.07-21.52.45:558][632]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.07-21.52.45:558][632]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.07-21.52.45:558][632]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.07-21.52.45:558][632]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.07-21.52.45:558][632]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.07-21.52.45:558][632]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.07-21.52.45:558][632]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.07-21.52.45:558][632]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.07-21.52.45:558][632]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.07-21.52.45:558][632]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.07-21.52.45:560][632]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.07-21.52.45:569][632]LogAudioMixer: Display: Using Audio Hardware Device Headset (Sreedhar's Buds2 Pro Hands-Free AG Audio)
+[2023.10.07-21.52.45:569][632]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.07-21.52.45:569][632]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.07-21.52.45:569][632]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.07-21.52.45:570][632]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.10.07-21.52.45:570][632]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.10.07-21.52.45:571][632]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.10.07-21.52.45:571][632]LogInit: FAudioDevice initialized with ID 13.
+[2023.10.07-21.52.45:571][632]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.10.07-21.52.45:571][632]LogAudio: Display: Audio Device (ID: 13) registered with world 'PlatformerWorld'.
+[2023.10.07-21.52.45:571][632]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2023.10.07-21.52.45:573][632]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2023.10.07-21.52.45:620][632]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld.PlatformerWorld up for play (max tick rate 0) at 2023.10.07-16.52.45
+[2023.10.07-21.52.45:621][632]LogWorld: Bringing up level for play took: 0.047916
+[2023.10.07-21.52.45:623][632]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2023.10.07-21.52.45:630][632]PIE: Server logged in
+[2023.10.07-21.52.45:630][632]PIE: Play in editor total start time 0.28 seconds.
+[2023.10.07-21.52.54:146][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.07-21.52.54:146][636]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld
+[2023.10.07-21.52.54:147][636]LogWorld: UWorld::CleanupWorld for PlatformerWorld, bSessionEnded=true, bCleanupResources=true
+[2023.10.07-21.52.54:153][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.07-21.52.54:177][636]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.07-21.52.54:182][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.07-21.52.54:204][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.07-21.52.54:204][636]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2023.10.07-21.52.54:204][636]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.10.07-21.52.54:206][636]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.10.07-21.52.54:221][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.10.07-21.52.54:275][637]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2023.10.07-21.54.36:016][ 29]MapCheck: New page: Map Check
+[2023.10.07-21.54.36:032][ 29]Cmd: MAP REBUILD ALLVISIBLE
+[2023.10.07-21.54.36:032][ 29]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2023.10.07-21.54.36:042][ 29]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2023.10.07-21.54.36:042][ 29]LogWorld: UWorld::CleanupWorld for PlatformerWorld, bSessionEnded=true, bCleanupResources=false
+[2023.10.07-21.54.36:094][ 29]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2023.10.07-21.54.36:097][ 29]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2023.10.07-21.54.36:097][ 29]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2023.10.07-21.54.36:104][ 29]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 0.01s
+[2023.10.07-21.54.36:104][ 29]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.01s
+[2023.10.07-21.54.36:124][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.10.07-21.54.36:150][ 29]LogLevel: Display: Export Material TexCoord Scales took 0.018 seconds.
+[2023.10.07-21.54.36:155][ 29]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2023.10.07-21.54.36:174][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.10.07-21.54.36:178][ 29]LightingResults: New page: Lighting Build - Oct 7, 2023, 11:54:36 AM
+[2023.10.07-21.54.36:178][ 29]LogStaticLightingSystem: Warning: WorldSettings.bForceNoPrecomputedLighting is true, Skipping Lighting Build!
+[2023.10.07-21.54.36:211][ 29]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2023.10.07-21.54.36:211][ 29]MapCheck: New page: PlatformerWorld - Oct 7, 2023, 11:54:36 AM
+[2023.10.07-21.54.36:222][ 29]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.328ms to complete.
+[2023.10.07-21.54.36:222][ 29]LogEditorBuildUtils: Build time 0:00
+[2023.10.07-21.54.41:929][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.10.07-21.54.41:954][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.10.07-21.54.44:510][657]LogSlate: Window 'Save Content' being destroyed
+[2023.10.07-21.54.44:515][657]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.07-21.54.44:584][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.10.07-21.54.44:720][657]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/PlatformerWorld
+[2023.10.07-21.54.44:721][657]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Saved/PlatformerWorld27C28B2E43F22B13E41E45A7C0C8E551.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Content/LearningKit_Games/Maps/PlatformerWorld.umap'
+[2023.10.07-21.54.44:727][657]LogFileHelpers: Saving map 'PlatformerWorld' took 0.163
+[2023.10.07-21.54.44:733][657]LogFileHelpers: InternalPromptForCheckoutAndSave took 217 ms (total: 1.75 sec)
+[2023.10.07-21.54.44:733][657]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld
+[2023.10.07-21.54.44:733][657]Cmd: MAP LOAD FILE="../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Content/LearningKit_Games/Maps/PlatformerWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.10.07-21.54.44:733][657]LightingResults: New page: Lighting Build
+[2023.10.07-21.54.44:733][657]LoadErrors: New page: Loading map: PlatformerWorld.umap
+[2023.10.07-21.54.44:743][657]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2023.10.07-21.54.44:743][657]LogWorld: UWorld::CleanupWorld for PlatformerWorld, bSessionEnded=true, bCleanupResources=true
+[2023.10.07-21.54.44:743][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.07-21.54.44:743][657]MapCheck: New page: Map Check
+[2023.10.07-21.54.44:743][657]LightingResults: New page: Lighting Build
+[2023.10.07-21.54.44:764][657]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.07-21.54.44:779][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.10.07-21.54.44:785][657]LogWorld: UWorld::CleanupWorld for LearningKit_Games_Showcase, bSessionEnded=true, bCleanupResources=true
+[2023.10.07-21.54.44:786][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.07-21.54.44:807][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.10.07-21.54.44:827][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.10.07-21.54.44:912][657]LogAudio: Display: Audio Device (ID: 1) registered with world 'PlatformerWorld'.
+[2023.10.07-21.54.44:912][657]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.07-21.54.44:912][657]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.10.07-21.54.44:912][657]LogAIModule: Creating AISystem for world PlatformerWorld
+[2023.10.07-21.54.45:146][657]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.07-21.54.45:194][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.10.07-21.54.45:198][657]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.07-21.54.45:199][657]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.136ms to complete.
+[2023.10.07-21.54.45:199][657]LogFileHelpers: Loading map 'PlatformerWorld' took 0.465
+[2023.10.07-21.54.45:211][657]AssetCheck: New page: Asset Save: PlatformerWorld
+[2023.10.07-21.54.45:211][657]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld
+[2023.10.07-21.57.10:418][386]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.07-21.58.42:711][453]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.07-21.58.42:766][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.10.07-21.58.42:915][453]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/PlatformerWorld
+[2023.10.07-21.58.42:916][453]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Saved/PlatformerWorld062B5A9A400CD7BAA54FCCB73F70A95F.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Content/LearningKit_Games/Maps/PlatformerWorld.umap'
+[2023.10.07-21.58.42:923][453]LogFileHelpers: Saving map 'PlatformerWorld' took 0.177
+[2023.10.07-21.58.42:928][453]LogFileHelpers: InternalPromptForCheckoutAndSave took 217 ms (total: 1.97 sec)
+[2023.10.07-21.58.42:933][453]AssetCheck: New page: Asset Save: PlatformerWorld
+[2023.10.07-21.58.42:934][453]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld
