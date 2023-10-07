@@ -2608,3 +2608,157 @@ Please use /Niagara/DynamicInputs/Angles/AngleConversion.AngleConversion instead
 [2023.10.07-21.58.42:928][453]LogFileHelpers: InternalPromptForCheckoutAndSave took 217 ms (total: 1.97 sec)
 [2023.10.07-21.58.42:933][453]AssetCheck: New page: Asset Save: PlatformerWorld
 [2023.10.07-21.58.42:934][453]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld
+[2023.10.07-22.05.33:130][314]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.07-22.05.33:134][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.07-22.05.33:134][314]PIE: New page: PIE session: PlatformerWorld (Oct 7, 2023, 12:05:33 PM)
+[2023.10.07-22.05.33:157][314]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld
+[2023.10.07-22.05.33:243][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.086143s)
+[2023.10.07-22.05.33:243][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld to /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld.PlatformerWorld (0.086184s)
+[2023.10.07-22.05.33:244][314]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.07-22.05.33:244][314]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.10.07-22.05.33:244][314]LogAIModule: Creating AISystem for world PlatformerWorld
+[2023.10.07-22.05.33:244][314]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2023.10.07-22.05.33:264][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.10.07-22.05.33:266][314]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.10.07-22.05.33:266][314]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.07-22.05.33:266][314]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.07-22.05.33:266][314]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.07-22.05.33:266][314]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.07-22.05.33:266][314]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.07-22.05.33:266][314]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.07-22.05.33:266][314]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.07-22.05.33:266][314]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.07-22.05.33:266][314]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.07-22.05.33:266][314]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.07-22.05.33:266][314]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.07-22.05.33:268][314]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.07-22.05.33:277][314]LogAudioMixer: Display: Using Audio Hardware Device Headset (Sreedhar's Buds2 Pro Hands-Free AG Audio)
+[2023.10.07-22.05.33:277][314]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.07-22.05.33:277][314]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.07-22.05.33:277][314]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.07-22.05.33:278][314]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.10.07-22.05.33:278][314]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.10.07-22.05.33:278][314]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.10.07-22.05.33:278][314]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.10.07-22.05.33:278][314]LogInit: FAudioDevice initialized with ID 14.
+[2023.10.07-22.05.33:278][314]LogAudio: Display: Audio Device (ID: 14) registered with world 'PlatformerWorld'.
+[2023.10.07-22.05.33:278][314]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2023.10.07-22.05.33:281][314]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2023.10.07-22.05.33:328][314]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld.PlatformerWorld up for play (max tick rate 0) at 2023.10.07-17.05.33
+[2023.10.07-22.05.33:330][314]LogWorld: Bringing up level for play took: 0.048842
+[2023.10.07-22.05.33:332][314]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2023.10.07-22.05.33:338][314]PIE: Server logged in
+[2023.10.07-22.05.33:339][314]PIE: Play in editor total start time 0.205 seconds.
+[2023.10.07-22.05.35:843][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.07-22.05.35:843][598]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld
+[2023.10.07-22.05.35:844][598]LogWorld: UWorld::CleanupWorld for PlatformerWorld, bSessionEnded=true, bCleanupResources=true
+[2023.10.07-22.05.35:850][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.07-22.05.35:854][598]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.07-22.05.35:858][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.07-22.05.35:878][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.07-22.05.35:878][598]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2023.10.07-22.05.35:878][598]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.10.07-22.05.35:879][598]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.10.07-22.05.35:896][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.10.07-22.05.35:934][599]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.10.07-22.05.41:133][188]LogShaderCompilers: Display: ================================================
+[2023.10.07-22.05.41:133][188]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.07-22.05.41:133][188]LogShaderCompilers: Display: Total job queries 2,796, among them cache hits 39 (1.39%)
+[2023.10.07-22.05.41:133][188]LogShaderCompilers: Display: Tracking 2,751 distinct input hashes that result in 1,963 distinct outputs (71.36%)
+[2023.10.07-22.05.41:133][188]LogShaderCompilers: Display: RAM used: 9.06 MiB of 1.60 GiB budget. Usage: 0.55%
+[2023.10.07-22.05.41:133][188]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.07-22.05.41:133][188]LogShaderCompilers: Display: Shaders Compiled: 2,747
+[2023.10.07-22.05.41:133][188]LogShaderCompilers: Display: Jobs assigned 2,752, completed 2,747 (99.82%)
+[2023.10.07-22.05.41:133][188]LogShaderCompilers: Display: Average time worker was idle: 151.26 s
+[2023.10.07-22.05.41:133][188]LogShaderCompilers: Display: Time job spent in pending queue: average 114.76 s, longest 284.58 s
+[2023.10.07-22.05.41:133][188]LogShaderCompilers: Display: Job execution time: average 12.27 s, max 36.45 s
+[2023.10.07-22.05.41:133][188]LogShaderCompilers: Display: Job life time (pending + execution): average 127.24 s, max 293.34
+[2023.10.07-22.05.41:133][188]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 314.33 s
+[2023.10.07-22.05.41:133][188]LogShaderCompilers: Display: Jobs were issued in 476 batches (only local compilation was used), average 5.78 jobs/batch
+[2023.10.07-22.05.41:133][188]LogShaderCompilers: Display: Average processing rate: 8.74 jobs/sec
+[2023.10.07-22.05.41:133][188]LogShaderCompilers: Display: Total thread time: 2,507.941 s
+[2023.10.07-22.05.41:133][188]LogShaderCompilers: Display: Total thread preprocess time: 56.581 s
+[2023.10.07-22.05.41:133][188]LogShaderCompilers: Display: Percentage time preprocessing: 2.26%
+[2023.10.07-22.05.41:133][188]LogShaderCompilers: Display: Effective parallelization: 7.98 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.10.07-22.05.41:133][188]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.10.07-22.05.41:133][188]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 13.77 sec, max 13.77 sec, min 13.77 sec)
+[2023.10.07-22.05.41:133][188]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 8.20 sec, max 25.11 sec, min 1.92 sec)
+[2023.10.07-22.05.41:133][188]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 6.52 sec, max 16.79 sec, min 0.48 sec)
+[2023.10.07-22.05.41:133][188]LogShaderCompilers: Display:                                   FScreenSpaceShortRangeAOCS (compiled   12 times, average 5.37 sec, max 23.63 sec, min 0.53 sec)
+[2023.10.07-22.05.41:133][188]LogShaderCompilers: Display:                                    FShadingFurnaceTestPassPS (compiled    1 times, average 3.47 sec, max 3.47 sec, min 3.47 sec)
+[2023.10.07-22.05.41:133][188]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.10.07-22.05.41:133][188]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 13.89% of total time (compiled  128 times, average 2.72 sec, max 4.18 sec, min 1.97 sec)
+[2023.10.07-22.05.41:133][188]LogShaderCompilers: Display:                                             FDeferredLightPS - 9.29% of total time (compiled  102 times, average 2.28 sec, max 5.18 sec, min 0.45 sec)
+[2023.10.07-22.05.41:133][188]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 9.15% of total time (compiled  128 times, average 1.79 sec, max 4.84 sec, min 0.33 sec)
+[2023.10.07-22.05.41:133][188]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 6.52% of total time (compiled  128 times, average 1.28 sec, max 2.28 sec, min 0.76 sec)
+[2023.10.07-22.05.41:133][188]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 5.98% of total time (compiled   96 times, average 1.56 sec, max 3.50 sec, min 0.33 sec)
+[2023.10.07-22.05.41:133][188]LogShaderCompilers: Display: ================================================
+[2023.10.07-22.05.44:130][546]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.10.07-22.05.51:290][353]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.10.07-22.05.52:844][538]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.10.07-22.05.55:540][860]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.10.07-22.05.57:072][ 41]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.07-22.05.57:076][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.07-22.05.57:076][ 41]PIE: New page: PIE session: PlatformerWorld (Oct 7, 2023, 12:05:57 PM)
+[2023.10.07-22.05.57:121][ 41]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld
+[2023.10.07-22.05.57:205][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.083272s)
+[2023.10.07-22.05.57:205][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld to /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld.PlatformerWorld (0.083301s)
+[2023.10.07-22.05.57:205][ 41]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.07-22.05.57:205][ 41]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.10.07-22.05.57:205][ 41]LogAIModule: Creating AISystem for world PlatformerWorld
+[2023.10.07-22.05.57:206][ 41]LogPlayLevel: PIE: World Init took: (0.000654s)
+[2023.10.07-22.05.57:225][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.10.07-22.05.57:229][ 41]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.10.07-22.05.57:229][ 41]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.07-22.05.57:229][ 41]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.07-22.05.57:229][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.07-22.05.57:229][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.07-22.05.57:229][ 41]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.07-22.05.57:229][ 41]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.07-22.05.57:229][ 41]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.07-22.05.57:229][ 41]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.07-22.05.57:230][ 41]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.07-22.05.57:230][ 41]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.07-22.05.57:230][ 41]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.07-22.05.57:231][ 41]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.07-22.05.57:240][ 41]LogAudioMixer: Display: Using Audio Hardware Device Headset (Sreedhar's Buds2 Pro Hands-Free AG Audio)
+[2023.10.07-22.05.57:240][ 41]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.07-22.05.57:240][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.07-22.05.57:240][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.07-22.05.57:240][ 41]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.10.07-22.05.57:240][ 41]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.10.07-22.05.57:241][ 41]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.10.07-22.05.57:241][ 41]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.10.07-22.05.57:241][ 41]LogInit: FAudioDevice initialized with ID 15.
+[2023.10.07-22.05.57:241][ 41]LogAudio: Display: Audio Device (ID: 15) registered with world 'PlatformerWorld'.
+[2023.10.07-22.05.57:241][ 41]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2023.10.07-22.05.57:243][ 41]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2023.10.07-22.05.57:290][ 41]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld.PlatformerWorld up for play (max tick rate 0) at 2023.10.07-17.05.57
+[2023.10.07-22.05.57:291][ 41]LogWorld: Bringing up level for play took: 0.047608
+[2023.10.07-22.05.57:293][ 41]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2023.10.07-22.05.57:300][ 41]PIE: Server logged in
+[2023.10.07-22.05.57:300][ 41]PIE: Play in editor total start time 0.224 seconds.
+[2023.10.07-22.06.00:503][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.07-22.06.00:503][407]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_PlatformerWorld
+[2023.10.07-22.06.00:504][407]LogWorld: UWorld::CleanupWorld for PlatformerWorld, bSessionEnded=true, bCleanupResources=true
+[2023.10.07-22.06.00:510][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.07-22.06.00:514][407]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.07-22.06.00:517][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.07-22.06.00:536][407]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.07-22.06.00:537][407]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2023.10.07-22.06.00:537][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.10.07-22.06.00:538][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.10.07-22.06.00:540][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.07-22.06.00:555][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.10.07-22.06.00:593][408]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2023.10.07-22.06.04:364][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.10.07-22.06.04:394][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.10.07-22.06.05:812][854]LogSlate: Window 'Save Content' being destroyed
+[2023.10.07-22.06.05:817][854]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.07-22.06.05:862][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.10.07-22.06.06:000][854]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/PlatformerWorld
+[2023.10.07-22.06.06:001][854]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Saved/PlatformerWorldB9D183C64AE0B907875A7ABC0B52955F.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/CS415-Game-Dev/PlatformerGame_MP2/Content/LearningKit_Games/Maps/PlatformerWorld.umap'
+[2023.10.07-22.06.06:007][854]LogFileHelpers: Saving map 'PlatformerWorld' took 0.165
+[2023.10.07-22.06.06:012][854]LogFileHelpers: InternalPromptForCheckoutAndSave took 195 ms (total: 2.17 sec)
+[2023.10.07-22.06.06:020][854]AssetCheck: New page: Asset Save: PlatformerWorld
+[2023.10.07-22.06.06:020][854]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/PlatformerWorld.PlatformerWorld
